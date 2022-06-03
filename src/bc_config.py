@@ -1,5 +1,4 @@
 
-'''Author- Prakash Chandra Chhipa, Email- prakash.chandra.chhipa@ltu.se, Year- 2022'''
 
 import torch
 
